@@ -7,10 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A6654F11ED515E8009EEF96 /* FTButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6654F01ED515E8009EEF96 /* FTButtonNode.swift */; };
+		956DF7D21F4E49160087A7AD /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7D11F4E49160087A7AD /* API.swift */; };
+		956DF7D51F4E59950087A7AD /* Final_AlmostWin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7D31F4E59950087A7AD /* Final_AlmostWin.swift */; };
+		956DF7D61F4E59950087A7AD /* Final_Lose.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7D41F4E59950087A7AD /* Final_Lose.swift */; };
+		956DF7D81F4E599F0087A7AD /* game_boss_L3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7D71F4E599F0087A7AD /* game_boss_L3.swift */; };
+		956DF7DB1F4E59AB0087A7AD /* Day4FrontDoor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7D91F4E59AB0087A7AD /* Day4FrontDoor.swift */; };
+		956DF7DC1F4E59AB0087A7AD /* Final_FullWin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7DA1F4E59AB0087A7AD /* Final_FullWin.swift */; };
+		956DF7DF1F4E59B60087A7AD /* Day4BedroomOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7DD1F4E59B60087A7AD /* Day4BedroomOver.swift */; };
+		956DF7E01F4E59B60087A7AD /* Day4BedroomUnder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7DE1F4E59B60087A7AD /* Day4BedroomUnder.swift */; };
+		956DF7E31F4F84290087A7AD /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7E21F4F84290087A7AD /* ToDo.swift */; };
+		956DF7E51F50C0C50087A7AD /* Credits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956DF7E41F50C0C50087A7AD /* Credits.swift */; };
+		95E287211F4CC13400477EC1 /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287201F4CC13400477EC1 /* MainMenu.swift */; };
+		95E287711F4D03A700477EC1 /* game_boss_L1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287701F4D03A700477EC1 /* game_boss_L1.swift */; };
+		95E287731F4D03BC00477EC1 /* pre_boss_L1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287721F4D03BC00477EC1 /* pre_boss_L1.swift */; };
+		95E287761F4D03D000477EC1 /* Day2SchoolHallwayScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287741F4D03D000477EC1 /* Day2SchoolHallwayScene.swift */; };
+		95E287771F4D03D000477EC1 /* Day2WinScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287751F4D03D000477EC1 /* Day2WinScene.swift */; };
+		95E2877D1F4D03DE00477EC1 /* Day2BedroomScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287781F4D03DE00477EC1 /* Day2BedroomScene.swift */; };
+		95E2877E1F4D03DE00477EC1 /* Day2LoseScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287791F4D03DE00477EC1 /* Day2LoseScene.swift */; };
+		95E2877F1F4D03DE00477EC1 /* Day2Rooftop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E2877A1F4D03DE00477EC1 /* Day2Rooftop.swift */; };
+		95E287801F4D03DE00477EC1 /* Day2RooftopBad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E2877B1F4D03DE00477EC1 /* Day2RooftopBad.swift */; };
+		95E287811F4D03DE00477EC1 /* Day2SchoolHallwaySceneBad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E2877C1F4D03DE00477EC1 /* Day2SchoolHallwaySceneBad.swift */; };
+		95E287861F4D048200477EC1 /* SchoolHallwayScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287851F4D048200477EC1 /* SchoolHallwayScene.swift */; };
+		95E287881F4D04AE00477EC1 /* OpeningScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287871F4D04AE00477EC1 /* OpeningScene.swift */; };
+		95E2878B1F4D04BF00477EC1 /* Day1Classroom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287891F4D04BF00477EC1 /* Day1Classroom.swift */; };
+		95E2878C1F4D04BF00477EC1 /* Day1SchoolRooftop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E2878A1F4D04BF00477EC1 /* Day1SchoolRooftop.swift */; };
+		95E287911F4D07C200477EC1 /* Day3NightWalkScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E2878E1F4D07C200477EC1 /* Day3NightWalkScene.swift */; };
+		95E287921F4D07C200477EC1 /* Day3RestaurantScene .swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E2878F1F4D07C200477EC1 /* Day3RestaurantScene .swift */; };
+		95E287931F4D07C200477EC1 /* game_boss_L2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287901F4D07C200477EC1 /* game_boss_L2.swift */; };
+		95E287951F4D07CD00477EC1 /* pre_boss_L2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287941F4D07CD00477EC1 /* pre_boss_L2.swift */; };
+		95E287971F4D07DB00477EC1 /* Day3WinScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287961F4D07DB00477EC1 /* Day3WinScene.swift */; };
+		95E2879A1F4D07EA00477EC1 /* Day3BedroomScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287981F4D07EA00477EC1 /* Day3BedroomScene.swift */; };
+		95E2879B1F4D07EA00477EC1 /* Day3LoseScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E287991F4D07EA00477EC1 /* Day3LoseScene.swift */; };
+		95E2879E1F4D127700477EC1 /* ResumeMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E2879D1F4D127700477EC1 /* ResumeMenu.swift */; };
+		95EB5E471F45FCEA00D946E1 /* SKMultilineLabel.swift in Resources */ = {isa = PBXBuildFile; fileRef = 95EB5E461F45FCEA00D946E1 /* SKMultilineLabel.swift */; };
 		E47DE0D51ECCFF7200C3375C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47DE0D41ECCFF7200C3375C /* AppDelegate.swift */; };
 		E47DE0D71ECCFF7200C3375C /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = E47DE0D61ECCFF7200C3375C /* GameScene.sks */; };
 		E47DE0D91ECCFF7200C3375C /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = E47DE0D81ECCFF7200C3375C /* Actions.sks */; };
-		E47DE0DB1ECCFF7200C3375C /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47DE0DA1ECCFF7200C3375C /* GameScene.swift */; };
 		E47DE0DD1ECCFF7200C3375C /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47DE0DC1ECCFF7200C3375C /* GameViewController.swift */; };
 		E47DE0E01ECCFF7200C3375C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E47DE0DE1ECCFF7200C3375C /* Main.storyboard */; };
 		E47DE0E21ECCFF7200C3375C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E47DE0E11ECCFF7200C3375C /* Assets.xcassets */; };
@@ -37,11 +70,44 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7A6654F01ED515E8009EEF96 /* FTButtonNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FTButtonNode.swift; path = ../FTButtonNode.swift; sourceTree = "<group>"; };
+		956DF7D11F4E49160087A7AD /* API.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		956DF7D31F4E59950087A7AD /* Final_AlmostWin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Final_AlmostWin.swift; sourceTree = "<group>"; };
+		956DF7D41F4E59950087A7AD /* Final_Lose.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Final_Lose.swift; sourceTree = "<group>"; };
+		956DF7D71F4E599F0087A7AD /* game_boss_L3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = game_boss_L3.swift; sourceTree = "<group>"; };
+		956DF7D91F4E59AB0087A7AD /* Day4FrontDoor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day4FrontDoor.swift; sourceTree = "<group>"; };
+		956DF7DA1F4E59AB0087A7AD /* Final_FullWin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Final_FullWin.swift; sourceTree = "<group>"; };
+		956DF7DD1F4E59B60087A7AD /* Day4BedroomOver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day4BedroomOver.swift; sourceTree = "<group>"; };
+		956DF7DE1F4E59B60087A7AD /* Day4BedroomUnder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day4BedroomUnder.swift; sourceTree = "<group>"; };
+		956DF7E21F4F84290087A7AD /* ToDo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
+		956DF7E41F50C0C50087A7AD /* Credits.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Credits.swift; sourceTree = "<group>"; };
+		95E287201F4CC13400477EC1 /* MainMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainMenu.swift; sourceTree = "<group>"; };
+		95E287701F4D03A700477EC1 /* game_boss_L1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = game_boss_L1.swift; sourceTree = "<group>"; };
+		95E287721F4D03BC00477EC1 /* pre_boss_L1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pre_boss_L1.swift; sourceTree = "<group>"; };
+		95E287741F4D03D000477EC1 /* Day2SchoolHallwayScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day2SchoolHallwayScene.swift; sourceTree = "<group>"; };
+		95E287751F4D03D000477EC1 /* Day2WinScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day2WinScene.swift; sourceTree = "<group>"; };
+		95E287781F4D03DE00477EC1 /* Day2BedroomScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day2BedroomScene.swift; sourceTree = "<group>"; };
+		95E287791F4D03DE00477EC1 /* Day2LoseScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day2LoseScene.swift; sourceTree = "<group>"; };
+		95E2877A1F4D03DE00477EC1 /* Day2Rooftop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day2Rooftop.swift; sourceTree = "<group>"; };
+		95E2877B1F4D03DE00477EC1 /* Day2RooftopBad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day2RooftopBad.swift; sourceTree = "<group>"; };
+		95E2877C1F4D03DE00477EC1 /* Day2SchoolHallwaySceneBad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day2SchoolHallwaySceneBad.swift; sourceTree = "<group>"; };
+		95E287851F4D048200477EC1 /* SchoolHallwayScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SchoolHallwayScene.swift; sourceTree = "<group>"; };
+		95E287871F4D04AE00477EC1 /* OpeningScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpeningScene.swift; sourceTree = "<group>"; };
+		95E287891F4D04BF00477EC1 /* Day1Classroom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day1Classroom.swift; sourceTree = "<group>"; };
+		95E2878A1F4D04BF00477EC1 /* Day1SchoolRooftop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day1SchoolRooftop.swift; sourceTree = "<group>"; };
+		95E2878E1F4D07C200477EC1 /* Day3NightWalkScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day3NightWalkScene.swift; sourceTree = "<group>"; };
+		95E2878F1F4D07C200477EC1 /* Day3RestaurantScene .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Day3RestaurantScene .swift"; sourceTree = "<group>"; };
+		95E287901F4D07C200477EC1 /* game_boss_L2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = game_boss_L2.swift; sourceTree = "<group>"; };
+		95E287941F4D07CD00477EC1 /* pre_boss_L2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pre_boss_L2.swift; sourceTree = "<group>"; };
+		95E287961F4D07DB00477EC1 /* Day3WinScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day3WinScene.swift; sourceTree = "<group>"; };
+		95E287981F4D07EA00477EC1 /* Day3BedroomScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day3BedroomScene.swift; sourceTree = "<group>"; };
+		95E287991F4D07EA00477EC1 /* Day3LoseScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day3LoseScene.swift; sourceTree = "<group>"; };
+		95E2879D1F4D127700477EC1 /* ResumeMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResumeMenu.swift; sourceTree = "<group>"; };
+		95EB5E461F45FCEA00D946E1 /* SKMultilineLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SKMultilineLabel.swift; sourceTree = "<group>"; };
 		E47DE0D11ECCFF7200C3375C /* textExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = textExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E47DE0D41ECCFF7200C3375C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E47DE0D61ECCFF7200C3375C /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		E47DE0D81ECCFF7200C3375C /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
-		E47DE0DA1ECCFF7200C3375C /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		E47DE0DC1ECCFF7200C3375C /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		E47DE0DF1ECCFF7200C3375C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E47DE0E11ECCFF7200C3375C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -80,6 +146,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		956DF7E11F4E59BC0087A7AD /* Day4 */ = {
+			isa = PBXGroup;
+			children = (
+				956DF7DD1F4E59B60087A7AD /* Day4BedroomOver.swift */,
+				956DF7DE1F4E59B60087A7AD /* Day4BedroomUnder.swift */,
+				956DF7D91F4E59AB0087A7AD /* Day4FrontDoor.swift */,
+				956DF7DA1F4E59AB0087A7AD /* Final_FullWin.swift */,
+				956DF7D71F4E599F0087A7AD /* game_boss_L3.swift */,
+				956DF7D31F4E59950087A7AD /* Final_AlmostWin.swift */,
+				956DF7D41F4E59950087A7AD /* Final_Lose.swift */,
+			);
+			name = Day4;
+			sourceTree = "<group>";
+		};
+		95E2876F1F4D038500477EC1 /* MainMenu */ = {
+			isa = PBXGroup;
+			children = (
+				95E287201F4CC13400477EC1 /* MainMenu.swift */,
+				95E2879D1F4D127700477EC1 /* ResumeMenu.swift */,
+				956DF7E41F50C0C50087A7AD /* Credits.swift */,
+			);
+			name = MainMenu;
+			sourceTree = "<group>";
+		};
+		95E287841F4D03FA00477EC1 /* Day2 */ = {
+			isa = PBXGroup;
+			children = (
+				95E287781F4D03DE00477EC1 /* Day2BedroomScene.swift */,
+				95E287741F4D03D000477EC1 /* Day2SchoolHallwayScene.swift */,
+				95E287721F4D03BC00477EC1 /* pre_boss_L1.swift */,
+				95E287701F4D03A700477EC1 /* game_boss_L1.swift */,
+				95E287751F4D03D000477EC1 /* Day2WinScene.swift */,
+				95E287791F4D03DE00477EC1 /* Day2LoseScene.swift */,
+				95E2877A1F4D03DE00477EC1 /* Day2Rooftop.swift */,
+				95E2877B1F4D03DE00477EC1 /* Day2RooftopBad.swift */,
+				95E2877C1F4D03DE00477EC1 /* Day2SchoolHallwaySceneBad.swift */,
+			);
+			name = Day2;
+			sourceTree = "<group>";
+		};
+		95E2878D1F4D058800477EC1 /* Day1 */ = {
+			isa = PBXGroup;
+			children = (
+				95E287871F4D04AE00477EC1 /* OpeningScene.swift */,
+				95E287851F4D048200477EC1 /* SchoolHallwayScene.swift */,
+				95E287891F4D04BF00477EC1 /* Day1Classroom.swift */,
+				95E2878A1F4D04BF00477EC1 /* Day1SchoolRooftop.swift */,
+			);
+			name = Day1;
+			sourceTree = "<group>";
+		};
+		95E2879C1F4D080300477EC1 /* Day3 */ = {
+			isa = PBXGroup;
+			children = (
+				95E287981F4D07EA00477EC1 /* Day3BedroomScene.swift */,
+				95E2878F1F4D07C200477EC1 /* Day3RestaurantScene .swift */,
+				95E287941F4D07CD00477EC1 /* pre_boss_L2.swift */,
+				95E287901F4D07C200477EC1 /* game_boss_L2.swift */,
+				95E287961F4D07DB00477EC1 /* Day3WinScene.swift */,
+				95E2878E1F4D07C200477EC1 /* Day3NightWalkScene.swift */,
+				95E287991F4D07EA00477EC1 /* Day3LoseScene.swift */,
+			);
+			name = Day3;
+			sourceTree = "<group>";
+		};
 		E47DE0C81ECCFF7200C3375C = {
 			isa = PBXGroup;
 			children = (
@@ -103,12 +234,20 @@
 		E47DE0D31ECCFF7200C3375C /* textExample */ = {
 			isa = PBXGroup;
 			children = (
+				7A6654F01ED515E8009EEF96 /* FTButtonNode.swift */,
 				E47DE0D41ECCFF7200C3375C /* AppDelegate.swift */,
 				E47DE0D61ECCFF7200C3375C /* GameScene.sks */,
 				E47DE0D81ECCFF7200C3375C /* Actions.sks */,
-				E47DE0DA1ECCFF7200C3375C /* GameScene.swift */,
-				E47DE0DC1ECCFF7200C3375C /* GameViewController.swift */,
+				95EB5E461F45FCEA00D946E1 /* SKMultilineLabel.swift */,
+				956DF7D11F4E49160087A7AD /* API.swift */,
+				956DF7E21F4F84290087A7AD /* ToDo.swift */,
+				95E2876F1F4D038500477EC1 /* MainMenu */,
+				95E2878D1F4D058800477EC1 /* Day1 */,
+				95E287841F4D03FA00477EC1 /* Day2 */,
+				95E2879C1F4D080300477EC1 /* Day3 */,
+				956DF7E11F4E59BC0087A7AD /* Day4 */,
 				E47DE0DE1ECCFF7200C3375C /* Main.storyboard */,
+				E47DE0DC1ECCFF7200C3375C /* GameViewController.swift */,
 				E47DE0E11ECCFF7200C3375C /* Assets.xcassets */,
 				E47DE0E31ECCFF7200C3375C /* LaunchScreen.storyboard */,
 				E47DE0E61ECCFF7200C3375C /* Info.plist */,
@@ -202,6 +341,7 @@
 				TargetAttributes = {
 					E47DE0D01ECCFF7200C3375C = {
 						CreatedOnToolsVersion = 8.1;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
 					E47DE0EA1ECCFF7200C3375C = {
@@ -243,6 +383,7 @@
 			files = (
 				E47DE0E01ECCFF7200C3375C /* Main.storyboard in Resources */,
 				E47DE0D71ECCFF7200C3375C /* GameScene.sks in Resources */,
+				95EB5E471F45FCEA00D946E1 /* SKMultilineLabel.swift in Resources */,
 				E47DE0E21ECCFF7200C3375C /* Assets.xcassets in Resources */,
 				E47DE0E51ECCFF7200C3375C /* LaunchScreen.storyboard in Resources */,
 				E47DE0D91ECCFF7200C3375C /* Actions.sks in Resources */,
@@ -270,9 +411,41 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E47DE0DB1ECCFF7200C3375C /* GameScene.swift in Sources */,
+				95E2877F1F4D03DE00477EC1 /* Day2Rooftop.swift in Sources */,
 				E47DE0DD1ECCFF7200C3375C /* GameViewController.swift in Sources */,
+				95E287771F4D03D000477EC1 /* Day2WinScene.swift in Sources */,
+				95E287911F4D07C200477EC1 /* Day3NightWalkScene.swift in Sources */,
+				956DF7E01F4E59B60087A7AD /* Day4BedroomUnder.swift in Sources */,
+				95E287971F4D07DB00477EC1 /* Day3WinScene.swift in Sources */,
+				956DF7DB1F4E59AB0087A7AD /* Day4FrontDoor.swift in Sources */,
+				956DF7DF1F4E59B60087A7AD /* Day4BedroomOver.swift in Sources */,
+				95E287711F4D03A700477EC1 /* game_boss_L1.swift in Sources */,
+				7A6654F11ED515E8009EEF96 /* FTButtonNode.swift in Sources */,
+				95E287931F4D07C200477EC1 /* game_boss_L2.swift in Sources */,
+				956DF7D21F4E49160087A7AD /* API.swift in Sources */,
+				95E287731F4D03BC00477EC1 /* pre_boss_L1.swift in Sources */,
+				95E287921F4D07C200477EC1 /* Day3RestaurantScene .swift in Sources */,
+				95E287211F4CC13400477EC1 /* MainMenu.swift in Sources */,
+				95E2878B1F4D04BF00477EC1 /* Day1Classroom.swift in Sources */,
+				956DF7DC1F4E59AB0087A7AD /* Final_FullWin.swift in Sources */,
+				95E2879E1F4D127700477EC1 /* ResumeMenu.swift in Sources */,
+				95E287861F4D048200477EC1 /* SchoolHallwayScene.swift in Sources */,
+				956DF7D61F4E59950087A7AD /* Final_Lose.swift in Sources */,
+				956DF7D51F4E59950087A7AD /* Final_AlmostWin.swift in Sources */,
+				95E2878C1F4D04BF00477EC1 /* Day1SchoolRooftop.swift in Sources */,
+				95E2879A1F4D07EA00477EC1 /* Day3BedroomScene.swift in Sources */,
+				95E287811F4D03DE00477EC1 /* Day2SchoolHallwaySceneBad.swift in Sources */,
+				956DF7D81F4E599F0087A7AD /* game_boss_L3.swift in Sources */,
+				95E2879B1F4D07EA00477EC1 /* Day3LoseScene.swift in Sources */,
 				E47DE0D51ECCFF7200C3375C /* AppDelegate.swift in Sources */,
+				956DF7E31F4F84290087A7AD /* ToDo.swift in Sources */,
+				95E287881F4D04AE00477EC1 /* OpeningScene.swift in Sources */,
+				95E2877E1F4D03DE00477EC1 /* Day2LoseScene.swift in Sources */,
+				95E287761F4D03D000477EC1 /* Day2SchoolHallwayScene.swift in Sources */,
+				95E287951F4D07CD00477EC1 /* pre_boss_L2.swift in Sources */,
+				95E2877D1F4D03DE00477EC1 /* Day2BedroomScene.swift in Sources */,
+				956DF7E51F50C0C50087A7AD /* Credits.swift in Sources */,
+				95E287801F4D03DE00477EC1 /* Day2RooftopBad.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,10 +597,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = textExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = DOZ.textExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -436,6 +611,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = textExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = DOZ.textExample;
@@ -517,6 +693,7 @@
 				E47DE1011ECCFF7200C3375C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E47DE1021ECCFF7200C3375C /* Build configuration list for PBXNativeTarget "textExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +702,7 @@
 				E47DE1041ECCFF7200C3375C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E47DE1051ECCFF7200C3375C /* Build configuration list for PBXNativeTarget "textExampleUITests" */ = {
 			isa = XCConfigurationList;
@@ -533,6 +711,7 @@
 				E47DE1071ECCFF7200C3375C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
